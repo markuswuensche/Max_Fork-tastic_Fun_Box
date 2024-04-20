@@ -1,7 +1,8 @@
 # Max_Fork-tastic_Fun_Box
 
-https://www.gorki.de/de/planet-b/2024-05-20-1900
+Hi Max, alles gute zum Bday von Jules und deinen 3 Dev-Atzen (ok eig nur 2, Markus zählt nicht :( )
 
-https://www.gorki.de/de/die-nacht-von-lissabon/2024-05-26-1900
+schau dich gern einmal ein bisschen hier um, vielleicht findest du ja den ein oder anderen interessanten commit…
 
-https://www.volksbuehne.berlin/#/de/repertoire/extinction
+Wir hoffen du genießt deinen Tag!
+Jules, Lukas, Thomas, Markus
