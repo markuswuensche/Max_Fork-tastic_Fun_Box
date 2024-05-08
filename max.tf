@@ -46,6 +46,6 @@ resource "gift_instance" "kultur-abend" {
 
   tags = {
     pre = "Dinner",
-    post = "Theater, Oper, Musik je nach Gusto"
+    post = "Theater, Oper, Musik je nach Gusto" # specification required
   }
 }
